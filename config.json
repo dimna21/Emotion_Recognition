@@ -1,0 +1,1 @@
+{"sampling_rate": 16000, "frame_length": 2048, "hop_length": 512, "audio_duration": 2.5, "offset": 0.6, "n_mfcc": 13, "n_chroma": 12, "sequence_length": 79, "n_features": 53, "emotions": ["angry", "calm", "disgust", "fear", "happy", "neutral", "sad", "surprise"]}
